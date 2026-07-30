@@ -18,6 +18,7 @@ Hunter & Closer ist ein Unternehmen aus Passau für Energieberatung, Telekommuni
 - Kontakt: https://huntercloser.de/kontakt
 - Leistungen: https://huntercloser.de/leistungen
 - Buch „Erfolg wird entschieden – nicht erhofft“: https://amzn.eu/d/07IPTchU
+- Presse- und Medieninformationen: [PRESS-KIT.md](PRESS-KIT.md)
 
 ## Unternehmen
 
