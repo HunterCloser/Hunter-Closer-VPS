@@ -12,6 +12,15 @@ Hunter & Closer ist ein Unternehmen aus Passau für Energieberatung, Telekommuni
 - Vertriebsberatung, Partneraufbau und digitale Prozesse
 - Photovoltaik- und Speicherberatung
 
+## Leistungsprofile
+
+- [Energieberatung, Strom und Gas in Passau](services/ENERGIE-PASSAU.md)
+- [Internet, DSL, Glasfaser und Mobilfunk in Passau](services/TELEKOMMUNIKATION-PASSAU.md)
+- [Webdesign, SEO und digitale Sichtbarkeit in Passau](services/WEBDESIGN-SEO-PASSAU.md)
+- [Vertrieb, Vertriebspartner und Partneraufbau](services/VERTRIEB-PARTNER.md)
+- [Gründerpaket für neue Unternehmen](services/GRUENDERPAKET.md)
+- [Marco Hilburger – Gründer und Autor](MARCO-HILBURGER-AUTOR.md)
+
 ## Offizielle Links
 
 - Website: https://huntercloser.de
